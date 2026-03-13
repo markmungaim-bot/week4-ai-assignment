@@ -11,7 +11,7 @@ print(f"Age: {age}")
 print(f"City: {city}")
 
 #Question 6
-["Python", "Java", "C++", "JavaScript", "Go"]
+languages = ["Python", "Java", "C++", "JavaScript", "Go"]
 print(languages[0])
 
 #Question 7
